@@ -18,7 +18,7 @@ React component that helps you to makes simple Farsi/Jalali/Shamsi date picker. 
 | value               | timestamp &#124; Date &#124; Moment | Date                                                                                                                                  | Moment | today date |
 | weekend             | number[]                            | `[6]`                                                                                                                                 |
 | ArrowLeft           | React.ReactType                     | default component                                                                                                                     |
-| ArrowLeft           | React.ReactType                     | default component                                                                                                                     |
+| ArrowRight          | React.ReactType                     | default component                                                                                                                     |
 | ClockIcon           | React.ReactType                     | default component                                                                                                                     |
 | DateIcon            | React.ReactType                     | default component                                                                                                                     |
 | timePicker          | boolean                             | true.                                                                                                                                 |
